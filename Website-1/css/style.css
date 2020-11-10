@@ -1,0 +1,94 @@
+.header-container {
+padding: 20px;
+border: 1px solid rgb(0, 0, 0);
+text-align: left;
+position: fixed; 
+top: 0; left: 0; right: 0;
+height: 150px;
+background-color: lightblue;
+}
+
+.header-h1 {
+  margin-left: 57.5%;
+}
+
+#tagline {
+  margin-left: 56%;
+  font-size: 20px;
+}
+
+.row {
+display: inline-block;
+}
+
+nav ul li {
+  font-size: 35px;
+  display: inline-block;
+  border: 1px solid black;
+  width: 15%;
+  text-align: center;
+  background-color: white;
+}
+
+.logo {
+  height: 150px;
+  width: 150px;
+  float: left;
+  margin-right: 400px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border: 1px solid rgb(0, 0, 0);
+  height: 50px;
+  background-color: white;
+}
+
+.content {
+margin-top: 225px;
+margin-left: 550px;
+}
+
+.sidebar{
+  position: fixed;
+  width: 500px;
+  top: 15%;
+  bottom: 4%;
+  left: 0;
+  border: 1px solid;
+}
+.sidebar-option{
+ margin-top: 10px;
+ margin-left: 75px; 
+ width: 250px;
+ padding: 10px 5px;
+}
+
+.content ul li {
+ display: inline-block;
+ border: 1px solid black;
+ font-size: 35px;
+ width: 300px;
+ height: 300px;
+ margin-left: 20px;
+ justify-content: center;
+ text-align: center;
+}
+
+#content-h1 {
+ margin-left: 60px;
+}
+
+p {
+  margin-left: 60px;
+  font-size: 25px;
+}
+ 
+#item {
+  height: 150px;
+  width: 150px;
+}
+
